@@ -1,7 +1,7 @@
 FROM debian:jessie
 
 LABEL maintainer="Chopin Ngo <consatan@gmail.com>" \
-      github="https://github.com/consatan/docker-tor" \
+      github="https://github.com/consatan/docker_tor_clientonly" \
       description="Starts Tor project on `ClientOnly` mode and exposes a SOCKS port for client use."
 
 ENV TOR_VERSION 0.2.9.9*
