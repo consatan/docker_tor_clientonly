@@ -1,3 +1,7 @@
+# Supported tags and respective `Dockerfile` links
+
+- `0.2.9.9`, `stable`, `latest` [(Dockerfile)](https://github.com/consatan/docker_tor_clientonly/blob/0.2.9.9/Dockerfile)
+
 # Docker Tor project
 
 Dockerfile to install [Tor project](https://www.torproject.org/), running as a SOCKS5 server on port **9050**. It's running on `ClientOnly` mode.
