@@ -1,6 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
-- `0.2.9.9`, `stable`, `latest` [(Dockerfile)](https://github.com/consatan/docker_tor_clientonly/blob/0.2.9.9/Dockerfile)
+- [`0.2.9.10`, `stable`, `latest` (Dockerfile)](https://github.com/consatan/docker_tor_clientonly/blob/0.2.9.10/Dockerfile)
+- [`0.2.9.9` (Dockerfile)](https://github.com/consatan/docker_tor_clientonly/blob/0.2.9.9/Dockerfile)
 
 # Docker Tor project
 
